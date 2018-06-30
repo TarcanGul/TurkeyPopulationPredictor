@@ -1,2 +1,2 @@
 # TurkeyPopulationPredictor
-Predicts the population of Turkey using linear regression.
+Predicts the population of Turkey using machine learning.
